@@ -1,15 +1,18 @@
 # v2ray
 
-support vmess aead, trojan, ss
+支持vmess aead, trojan, ss
 
-# contact me
+# 联系我
 
 https://t.me/Web3_1234
 
-# tip
-Unzip the libvpn_a file and put it into the project
+# 提示
+自行解压libvpn_a.zip放入工程中
 
-# Coffee
+# 爱好
+这个项目纯属技术探究，用于任何作用都与本人无关，各位自行斟酌
+
+# 小费
 
 trc20: TH85QavuDrp7v3otYXVd6MRr1CfJ9DPKDQ
 
