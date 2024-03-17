@@ -4,7 +4,7 @@
 
 # 联系我
 
-https://t.me/Web3_1234
+直接提issus吧
 
 # 提示
 自行解压libvpn_a.zip放入工程中
