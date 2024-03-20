@@ -218,7 +218,7 @@ rules:
 ...
 ```
 
-# 小费
+# 请我喝杯咖啡
 
 trc20: TH85QavuDrp7v3otYXVd6MRr1CfJ9DPKDQ
 
