@@ -4,7 +4,8 @@
 
 # 联系我
 
-直接提issus吧
+直接提issus吧或者
+https://t.me/v2ray_1234
 
 # 提示
 自行解压libvpn_a.zip放入工程中
